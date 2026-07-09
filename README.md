@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranjal-k22/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Pranjal-k22/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Pranjal-k22/DSA/tree/master/0503-next-greater-element-ii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranjal-k22/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
