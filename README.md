@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranjal-k22/DSA/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Pranjal-k22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranjal-k22/DSA/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/Pranjal-k22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Pranjal-k22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0234-palindrome-linked-list) |
 ## Simulation
