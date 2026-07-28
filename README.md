@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Pranjal-k22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjal-k22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0503-next-greater-element-ii](https://github.com/Pranjal-k22/DSA/tree/master/0503-next-greater-element-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranjal-k22/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -98,4 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjal-k22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
