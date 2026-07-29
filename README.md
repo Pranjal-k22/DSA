@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranjal-k22/DSA/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranjal-k22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
