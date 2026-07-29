@@ -2,7 +2,7 @@ name: Update Question Count
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch:
 
 jobs:
