@@ -1,0 +1,25 @@
+name: Update Question Count
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Update count in README
+        run: node scripts/update-count.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update solved question count [skip ci]"
+          git push
