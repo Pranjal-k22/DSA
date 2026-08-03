@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranjal-k22/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pranjal-k22/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Pranjal-k22/DSA/tree/master/2126-destroying-asteroids) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Pranjal-k22/DSA/tree/master/1768-merge-strings-alternately) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
