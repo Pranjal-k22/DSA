@@ -145,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Pranjal-k22/DSA/tree/master/0324-wiggle-sort-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pranjal-k22/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Pranjal-k22/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
