@@ -3,52 +3,41 @@ public:
     vector<int> sortedSquares(vector<int>& nums) {
         vector<int> neg, pos;
         int n = nums.size();
-
-        for (int x : nums) {
-            if (x >= 0)
-                pos.push_back(x);
-            else
-                neg.push_back(x);
+        for(int i=0; i<n; i++){
+            if(nums[i]<0){
+                neg.push_back(nums[i]*nums[i]);
+            }
+            else{
+                pos.push_back(nums[i]*nums[i]);
+            }
         }
-
-        if (neg.empty()) {
-            for (int &x : nums)
-                x *= x;
-            return nums;
+        int m=neg.size();
+        int o=pos.size();
+        int j=m-1;
+        int k=0;
+        int id=0;
+        while(j >= 0 && k < o){
+            if(neg[j]>=pos[k]){
+                nums[id]=pos[k];
+                id++;
+                k++;
+            }
+            else if(neg[j]<pos[k]){
+                nums[id]=neg[j];
+                id++;
+                j--;
+            }
         }
-
-        if (pos.empty()) {
-            for (int &x : nums)
-                x *= x;
-            reverse(nums.begin(), nums.end());
-            return nums;
+        while(j>=0){
+            nums[id]=neg[j];
+            id++;
+            j--;
         }
-
-        for (int &x : neg)
-            x *= x;
-        reverse(neg.begin(), neg.end());
-
-        for (int &x : pos)
-            x *= x;
-
-        int i = 0, j = 0, id = 0;
-        int p = neg.size(), m = pos.size();
-
-        vector<int> res(n);
-
-        while (i < p && j < m) {
-            if (neg[i] <= pos[j])
-                res[id++] = neg[i++];
-            else
-                res[id++] = pos[j++];   // fixed
+        while(k<o){
+            nums[id]=pos[k];
+            id++;
+            k++;
         }
-
-        while (i < p)
-            res[id++] = neg[i++];
-
-        while (j < m)
-            res[id++] = pos[j++];
-
-        return res;
+        return nums;
     }
 };
