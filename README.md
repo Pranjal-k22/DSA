@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pranjal-k22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pranjal-k22/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjal-k22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Pranjal-k22/DSA/tree/master/1768-merge-strings-alternately) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjal-k22/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
+| [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Pranjal-k22/DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
