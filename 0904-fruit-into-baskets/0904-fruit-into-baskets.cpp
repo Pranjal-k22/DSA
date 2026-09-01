@@ -3,11 +3,9 @@ public:
     int totalFruit(vector<int>& fruits) {
         int low=0;
         int high=0;
+        unordered_map<int,int> f;
         int res=INT_MIN;
-        unordered_map<int, int> f;
-        int n=fruits.size();
-
-        for(high=0; high<n; high++){
+        for(high=0; high<fruits.size(); high++){
             f[fruits[high]]++;
             while(f.size()>2){
                 f[fruits[low]]--;
