@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Pranjal-k22/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Pranjal-k22/DSA/tree/master/0904-fruit-into-baskets) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjal-k22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/Pranjal-k22/DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Pranjal-k22/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Pranjal-k22/DSA/tree/master/1768-merge-strings-alternately) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjal-k22/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjal-k22/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Pranjal-k22/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Pranjal-k22/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
