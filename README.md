@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranjal-k22/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Pranjal-k22/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranjal-k22/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pranjal-k22/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranjal-k22/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Pranjal-k22/DSA/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/Pranjal-k22/DSA/tree/master/1768-merge-strings-alternately) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Pranjal-k22/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
