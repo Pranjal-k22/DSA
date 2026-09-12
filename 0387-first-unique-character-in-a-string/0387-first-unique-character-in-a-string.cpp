@@ -1,16 +1,18 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-       int n=s.size();
-       unordered_map<char,int> f;
-       for(int i=0; i<n; i++){
-        f[s[i]]++;
-       }
-       for(int i=0; i<n; i++){
-        if(f[s[i]]==1){
-            return i;
+        int f[26] = {0};
+
+        for(char c : s) {
+            f[c-'a']++;
         }
-       }
-       return -1;
+
+        for(int i=0; i<s.size(); i++) {
+            if(f[s[i]-'a'] == 1) {
+                return i;
+            }
+        }
+
+        return -1;
     }
 };
