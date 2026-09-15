@@ -1,20 +1,20 @@
 class Solution {
 public:
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        vector<pair<int,string>> v;
-        
-        for(int i=0; i<names.size(); i++){
-            v.push_back({heights[i], names[i]});
-        }
-        
-        sort(v.rbegin(), v.rend());
-        
+        vector<int> ind(names.size());
+
+        iota(ind.begin(), ind.end(), 0);
+
+        sort(ind.begin(), ind.end(), [&](int a, int b) {
+            return heights[a] > heights[b];
+        });
+
         vector<string> ans;
-        
-        for(auto i : v){
-            ans.push_back(i.second);
+
+        for(int i : ind){
+            ans.push_back(names[i]);
         }
-        
+
         return ans;
     }
 };
