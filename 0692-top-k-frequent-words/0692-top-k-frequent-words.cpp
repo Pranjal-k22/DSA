@@ -4,32 +4,42 @@ public:
     vector<string> topKFrequent(vector<string>& words, int k) {
         unordered_map<string, int> f;
 
-        for (auto& word : words) {
-            f[word]++;
+        for (int i = 0; i < words.size(); i++) {
+            f[words[i]]++;
         }
 
-        vector<vector<string>> bucket(words.size() + 1);
+        auto cmp = [](pair<int, string> a, pair<int, string> b) {
+            if (a.first == b.first) {
+                return a.second < b.second;
+            }
+            return a.first > b.first;
+        };
 
-        for (auto& p : f) {
-            bucket[p.second].push_back(p.first);
-        }
+        priority_queue<
+            pair<int, string>,
+            vector<pair<int, string>>,
+            decltype(cmp)
+        > pq(cmp);
 
-        vector<string> ans;
+        for (auto i : f) {
+            pair<int, string> curr = {i.second, i.first};
 
-        for (int i = bucket.size() - 1; i >= 1; i--) {
-            if (!bucket[i].empty()) {
-                sort(bucket[i].begin(), bucket[i].end());
+            pq.push(curr);
 
-                for (auto& word : bucket[i]) {
-                    ans.push_back(word);
-
-                    if (ans.size() == k) {
-                        return ans;
-                    }
-                }
+            if (pq.size() > k) {
+                pq.pop();
             }
         }
 
-        return ans;
+        vector<string> str;
+
+        while (!pq.empty()) {
+            str.push_back(pq.top().second);
+            pq.pop();
+        }
+
+        reverse(str.begin(), str.end());
+
+        return str;
     }
 };
