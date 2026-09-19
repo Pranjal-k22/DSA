@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pranjal-k22/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Pranjal-k22/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Pranjal-k22/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Pranjal-k22/DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0767-reorganize-string](https://github.com/Pranjal-k22/DSA/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Pranjal-k22/DSA/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/Pranjal-k22/DSA/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
