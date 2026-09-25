@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Pranjal-k22/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Pranjal-k22/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Pranjal-k22/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Pranjal-k22/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranjal-k22/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranjal-k22/DSA/tree/master/0567-permutation-in-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Pranjal-k22/DSA/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranjal-k22/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Geometry
