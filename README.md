@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pranjal-k22/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pranjal-k22/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pranjal-k22/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjal-k22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
