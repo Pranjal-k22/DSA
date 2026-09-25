@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Pranjal-k22/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Pranjal-k22/DSA/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pranjal-k22/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranjal-k22/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranjal-k22/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2104-sum-of-subarray-ranges](https://github.com/Pranjal-k22/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/Pranjal-k22/DSA/tree/master/2126-destroying-asteroids) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranjal-k22/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Geometry
 |  |
 | ------- |
