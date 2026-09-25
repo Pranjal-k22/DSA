@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pranjal-k22/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjal-k22/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Pranjal-k22/DSA/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Pranjal-k22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pranjal-k22/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranjal-k22/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Pranjal-k22/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Pranjal-k22/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Pranjal-k22/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Pranjal-k22/DSA/tree/master/0205-isomorphic-strings) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pranjal-k22/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Pranjal-k22/DSA/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
