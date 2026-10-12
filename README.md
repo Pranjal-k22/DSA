@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Pranjal-k22/DSA/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/Pranjal-k22/DSA/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pranjal-k22/DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Pranjal-k22/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pranjal-k22/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
