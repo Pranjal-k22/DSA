@@ -353,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pranjal-k22/DSA/tree/master/0070-climbing-stairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Pranjal-k22/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
