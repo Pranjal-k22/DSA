@@ -5,8 +5,6 @@ public:
         int m=t.size();
         stack<char> s1;
         stack<char> t1;
-
-        
         for(int i=0; i<n; i++){
             if(s[i]=='#'){
                 if (!s1.empty()) {
