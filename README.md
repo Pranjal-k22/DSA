@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjal-k22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pranjal-k22/DSA/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/Pranjal-k22/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Pranjal-k22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjal-k22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Pranjal-k22/DSA/tree/master/0455-assign-cookies) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pranjal-k22/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranjal-k22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjal-k22/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjal-k22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Pranjal-k22/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranjal-k22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Pranjal-k22/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Pranjal-k22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -373,8 +376,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Pranjal-k22/DSA/tree/master/0148-sort-list) |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Pranjal-k22/DSA/tree/master/0029-divide-two-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Pranjal-k22/DSA/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
