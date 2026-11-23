@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Pranjal-k22/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Pranjal-k22/DSA/tree/master/0860-lemonade-change) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Pranjal-k22/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pranjal-k22/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Pranjal-k22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranjal-k22/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranjal-k22/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/Pranjal-k22/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranjal-k22/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Pranjal-k22/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranjal-k22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Pranjal-k22/DSA/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pranjal-k22/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pranjal-k22/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -292,10 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranjal-k22/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pranjal-k22/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sweep Line
 |  |
@@ -319,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Pranjal-k22/DSA/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Pranjal-k22/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Pranjal-k22/DSA/tree/master/0767-reorganize-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pranjal-k22/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Pranjal-k22/DSA/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
