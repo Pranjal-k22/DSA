@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pranjal-k22/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Pranjal-k22/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Pranjal-k22/DSA/tree/master/0844-backspace-string-compare) |
+| [3360-stone-removal-game](https://github.com/Pranjal-k22/DSA/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pranjal-k22/DSA/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/Pranjal-k22/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pranjal-k22/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3360-stone-removal-game](https://github.com/Pranjal-k22/DSA/tree/master/3360-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
